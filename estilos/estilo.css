@@ -1,0 +1,40 @@
+html {
+	background-color: #808080;
+}
+
+body {
+	width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	background-color: #000000;
+	border: 5px solid black;
+	border-radius: 60px;
+	
+}
+
+body, h1, h4, li, header, h6, footer {
+	font-family: 'Comic Sans MS';
+	font-size: 25px;
+	color: white;
+	
+}
+
+h4, h2, h6 {
+	text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+/*footer {
+	margin: 0 auto;
+}
+*/
+/*img{
+	width: 40%;
+	height: 40%;
+	//position: absolute;
+	
+}*/
+
